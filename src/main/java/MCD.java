@@ -19,12 +19,9 @@ public class MCD {
         return a;
     }
 
-    static int mcdEuclidesLambda(int x, int y) {
+    /*static int mcdEuclidesLambda(int x, int y) {
         IntBinaryOperator mcd = null;
         mcd = (a, b) -> b == 0 ? a : mcd.applyAsInt(b, a % b);
         return mcd.applyAsInt(x, y);
-    }
-            public static void main(String[] args) {
-        System.out.println(mcdEuclidesLambda(12, 18));
-    }
+    }*/
 }
