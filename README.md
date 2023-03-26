@@ -75,14 +75,14 @@ Dígito 0 1 2 3 4 5 6 7 8 9 A B C D E F
 Por ejemplo:
 65029|10 = FE05|16__
 
-Codigo en: src/main/java/Cambio_De_Base.java
+    Codigo en: src/main/java/Cambio_De_Base.java
 
 ### 4. 
 __Implemente, tanto de forma recursiva como de forma iterativa, una función que nos diga
 si una cadena de caracteres es simétrica (un palíndromo). Por ejemplo,
 “DABALEARROZALAZORRAELABAD” es un palíndromo.__
 
-Codigo en: src/main/java/Palindromo.java
+    Codigo en: src/main/java/Palindromo.java
 
 ### 5. 
 __Implemente, tanto de forma recursiva como de forma iterativa y con expresiones lambda,
@@ -96,4 +96,4 @@ para encontrar su máximo común divisor
 - Si r = 0, el MCD es n.
 - Si no, el máximo común divisor es MCD(n,r).
 
-Codigo en: src/main/java/MCD.java
+      Codigo en: src/main/java/MCD.java
