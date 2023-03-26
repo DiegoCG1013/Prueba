@@ -3,6 +3,7 @@
 # Repositorio: https://github.com/DiegoCG1013/Una_Mas.git
 
 ### 1. Dado el siguiente fragmento de código C:
+
     static final double N = 2;
     static final double PREC = 1e-6;
     
@@ -20,6 +21,7 @@
         return bisect (med,max);
       }
     }
+    
 * ¿Qué calcula la llamada a la función recursiva bisect(0,N)? Si cambiamos el
 valor de N, ¿qué estaríamos calculando? ¿Y si cambiásemos la función f(x)?
       
@@ -32,7 +34,9 @@ valor de N, ¿qué estaríamos calculando? ¿Y si cambiásemos la función f(x)?
       
 * Implemente un algoritmo iterativo equivalente.
       
-      
+Codigo añadido en commit:   
+
+    7e537f49a75286469eba78c48c4f40a504e9bec0
 
 ### 2. Dado el siguiente algoritmo recursivo:
 * Dado un número cualquiera x, ¿qué nos muestra por pantalla la llamada a la función
