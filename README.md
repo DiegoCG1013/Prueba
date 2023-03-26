@@ -34,13 +34,14 @@ valor de N, ¿qué estaríamos calculando? ¿Y si cambiásemos la función f(x)?
       
 * Implemente un algoritmo iterativo equivalente.
       
-Codigo añadido en commit:   
-
-    7e537f49a75286469eba78c48c4f40a504e9bec0
+      Codigo añadido en: src/main/java/Metodo_Bisectriz.java
 
 ### 2. Dado el siguiente algoritmo recursivo:
 * Dado un número cualquiera x, ¿qué nos muestra por pantalla la llamada a la función
 recursiva f(x,2)? ¿Cuál sería un nombre más adecuado para la función f?
+
+        
+
 * Implemente un algoritmo iterativo y uno implementado mediante expresiones lambda
 equivalentes.
 ### 3. Construya una función que convierta un número decimal en una cadena que represente el
